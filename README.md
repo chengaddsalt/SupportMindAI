@@ -14,4 +14,8 @@ Built using LangChain, OpenAI, Pinecone, and HuggingFace.
 ## Setup
 
 1. Clone this repo
-2. Create `.env` file with:
+2. Create `.env` file with:OPENAI_API_KEY=your_key PINECONE_API_KEY=your_key
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+
